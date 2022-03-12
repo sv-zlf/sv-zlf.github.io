@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://zlfeng.cn/tags/index.html</loc>
+    <loc>https://zlfeng.cn/tags/index.html</loc>
     
     <lastmod>2022-03-12</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://zlfeng.cn/Turtle-3PA%E4%B8%89%E8%BD%AE%E5%B0%8F%E8%BD%A6%E5%9F%BA%E4%BA%8Epixhawk%E7%9A%84%E6%94%B9%E8%A3%85%E4%B9%8B%E5%87%86%E5%A4%87.html</loc>
+    <loc>https://zlfeng.cn/Turtle-3PA%E4%B8%89%E8%BD%AE%E5%B0%8F%E8%BD%A6%E5%9F%BA%E4%BA%8Epixhawk%E7%9A%84%E6%94%B9%E8%A3%85%E4%B9%8B%E5%87%86%E5%A4%87.html</loc>
     
     <lastmod>2022-03-12</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://zlfeng.cn/Nordic-nRF52840-%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0.html</loc>
+    <loc>https://zlfeng.cn/Nordic-nRF52840-%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0.html</loc>
     
     <lastmod>2022-03-12</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://zlfeng.cn/guestbook/index.html</loc>
+    <loc>https://zlfeng.cn/guestbook/index.html</loc>
     
     <lastmod>2022-03-11</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://zlfeng.cn/categories/index.html</loc>
+    <loc>https://zlfeng.cn/categories/index.html</loc>
     
     <lastmod>2022-03-11</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>http://zlfeng.cn/</loc>
+    <loc>https://zlfeng.cn/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -56,14 +56,14 @@
 
   
   <url>
-    <loc>http://zlfeng.cn/tags/pixhawk/</loc>
+    <loc>https://zlfeng.cn/tags/pixhawk/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://zlfeng.cn/tags/nRF52840/</loc>
+    <loc>https://zlfeng.cn/tags/nRF52840/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -72,14 +72,14 @@
 
   
   <url>
-    <loc>http://zlfeng.cn/categories/%E7%A7%91%E6%8A%80%E6%9D%82%E8%B0%88/</loc>
+    <loc>https://zlfeng.cn/categories/%E7%A7%91%E6%8A%80%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://zlfeng.cn/categories/NDN/</loc>
+    <loc>https://zlfeng.cn/categories/NDN/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
