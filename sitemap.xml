@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zlfeng.cn/nRF52840%E4%BD%9C%E4%B8%BA%E9%80%9A%E4%BF%A1%E6%A8%A1%E5%9D%97%E4%B8%8EArduino%E7%9A%84%E8%81%94%E5%8A%A8.html</loc>
+    
+    <lastmod>2022-03-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zlfeng.cn/tags/index.html</loc>
     
     <lastmod>2022-03-12</lastmod>
@@ -64,6 +73,13 @@
   
   <url>
     <loc>https://zlfeng.cn/tags/nRF52840/</loc>
+    <lastmod>2022-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zlfeng.cn/tags/Arduino/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
