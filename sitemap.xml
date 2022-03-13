@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.zlfeng.cn/7.html</loc>
+    <loc>https://www.zlfeng.cn/post/57172.html</loc>
     
     <lastmod>2022-03-13</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/6.html</loc>
+    <loc>https://www.zlfeng.cn/post/52359.html</loc>
     
     <lastmod>2022-03-13</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/5.html</loc>
+    <loc>https://www.zlfeng.cn/post/53698.html</loc>
     
     <lastmod>2022-03-13</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/4.html</loc>
+    <loc>https://www.zlfeng.cn/post/34574.html</loc>
     
     <lastmod>2022-03-13</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/3.html</loc>
+    <loc>https://www.zlfeng.cn/post/6004.html</loc>
     
     <lastmod>2022-03-13</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/2.html</loc>
+    <loc>https://www.zlfeng.cn/post/10336.html</loc>
     
     <lastmod>2022-03-13</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/1.html</loc>
+    <loc>https://www.zlfeng.cn/post/4057281378.html</loc>
     
     <lastmod>2022-03-13</lastmod>
     
@@ -101,6 +101,13 @@
 
   
   <url>
+    <loc>https://www.zlfeng.cn/tags/nRF52840/</loc>
+    <lastmod>2022-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.zlfeng.cn/tags/pixhawk/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -108,7 +115,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/nRF52840/</loc>
+    <loc>https://www.zlfeng.cn/tags/Arduino/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -129,13 +136,6 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/Arduino/</loc>
-    <lastmod>2022-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.zlfeng.cn/tags/ndnSIM/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -145,14 +145,14 @@
 
   
   <url>
-    <loc>https://www.zlfeng.cn/categories/%E7%A7%91%E6%8A%80%E6%9D%82%E8%B0%88/</loc>
+    <loc>https://www.zlfeng.cn/categories/NDN/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/categories/NDN/</loc>
+    <loc>https://www.zlfeng.cn/categories/%E7%A7%91%E6%8A%80%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
