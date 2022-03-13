@@ -101,13 +101,6 @@
 
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/pixhawk/</loc>
-    <lastmod>2022-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.zlfeng.cn/tags/nRF52840/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -115,7 +108,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/Arduino/</loc>
+    <loc>https://www.zlfeng.cn/tags/pixhawk/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -142,17 +135,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.zlfeng.cn/tags/Arduino/</loc>
+    <lastmod>2022-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://www.zlfeng.cn/categories/%E7%A7%91%E6%8A%80%E6%9D%82%E8%B0%88/</loc>
+    <loc>https://www.zlfeng.cn/categories/NDN/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/categories/NDN/</loc>
+    <loc>https://www.zlfeng.cn/categories/%E7%A7%91%E6%8A%80%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
