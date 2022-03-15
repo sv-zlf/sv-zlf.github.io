@@ -29,6 +29,31 @@
     
     
     <entry>
+      <title>Java集合</title>
+      <link href="/post/72389457.html"/>
+      <url>/post/72389457.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="常见的Java集合"><a href="#常见的Java集合" class="headerlink" title="常见的Java集合"></a>常见的Java集合</h3><p>Java 集合， 也叫作容器，主要是由两大接口派生而来：一个是 <code>Collection</code>接口，主要用于存放单一元素；另一个是 <code>Map</code> 接口，主要用于存放键值对。对于<code>Collection</code> 接口，下面又有三个主要的子接口：<code>List</code>、<code>Set</code> 和 <code>Queue</code>。</p><p>Java 集合框架如下图所示：</p><p><img src="https://s2.loli.net/2022/03/15/DKvo3mzbB2ljd14.png"></p><h3 id="List-Set-Queue-Map-四者的区别？"><a href="#List-Set-Queue-Map-四者的区别？" class="headerlink" title="List, Set, Queue, Map 四者的区别？"></a>List, Set, Queue, Map 四者的区别？</h3><ul><li><code>List</code>(对付顺序的好帮手): 存储的元素是有序的、可重复的。</li><li><code>Set</code>(注重独一无二的性质): 存储的元素是无序的、不可重复的。</li><li><code>Queue</code>(实现排队功能的叫号机): 按特定的排队规则来确定先后顺序，存储的元素是有序的、可重复的。</li><li><code>Map</code>(用 key 来搜索的专家): 使用键值对（key-value）存储，类似于数学上的函数 y&#x3D;f(x)，”x” 代表 key，”y” 代表 value，key 是无序的、不可重复的，value 是无序的、可重复的，每个键最多映射到一个值。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Collection </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Java虚拟机</title>
       <link href="/post/1365080245.html"/>
       <url>/post/1365080245.html</url>
