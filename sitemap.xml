@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.zlfeng.cn/post/2204700370.html</loc>
+    <loc>https://www.zlfeng.cn/post/2204700371.html</loc>
     
     <lastmod>2022-03-17</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/post/2204700371.html</loc>
+    <loc>https://www.zlfeng.cn/post/2204700370.html</loc>
     
     <lastmod>2022-03-17</lastmod>
     
@@ -205,14 +205,14 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/nRF52840/</loc>
+    <loc>https://www.zlfeng.cn/tags/Java%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2022-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/Java%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://www.zlfeng.cn/tags/nRF52840/</loc>
     <lastmod>2022-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -226,21 +226,14 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/Spring-Cloud/</loc>
-    <lastmod>2022-03-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.zlfeng.cn/tags/pixhawk/</loc>
-    <lastmod>2022-03-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.zlfeng.cn/tags/Java%E5%B9%B6%E5%8F%91/</loc>
+    <lastmod>2022-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zlfeng.cn/tags/Spring-Cloud/</loc>
     <lastmod>2022-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -255,6 +248,13 @@
   
   <url>
     <loc>https://www.zlfeng.cn/tags/Spring-Boot/</loc>
+    <lastmod>2022-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zlfeng.cn/tags/pixhawk/</loc>
     <lastmod>2022-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
