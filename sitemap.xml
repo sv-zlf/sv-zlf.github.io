@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.zlfeng.cn/post/4135037769.html</loc>
+    
+    <lastmod>2022-03-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.zlfeng.cn/post/3186528232.html</loc>
     
     <lastmod>2022-03-19</lastmod>
@@ -216,7 +225,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/JVM/</loc>
+    <loc>https://www.zlfeng.cn/tags/nRF52840/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -230,14 +239,28 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/Collection/</loc>
+    <loc>https://www.zlfeng.cn/tags/JVM/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/nRF52840/</loc>
+    <loc>https://www.zlfeng.cn/tags/SpringBoot/</loc>
+    <lastmod>2022-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zlfeng.cn/tags/Redis/</loc>
+    <lastmod>2022-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zlfeng.cn/tags/Collection/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -307,14 +330,14 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/maven/</loc>
+    <loc>https://www.zlfeng.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</loc>
+    <loc>https://www.zlfeng.cn/tags/maven/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -329,13 +352,6 @@
   
   <url>
     <loc>https://www.zlfeng.cn/tags/MySQL/</loc>
-    <lastmod>2022-03-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.zlfeng.cn/tags/Redis/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
