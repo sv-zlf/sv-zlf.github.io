@@ -216,14 +216,21 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/Java%E5%B9%B6%E5%8F%91/</loc>
+    <loc>https://www.zlfeng.cn/tags/JVM/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/JVM/</loc>
+    <loc>https://www.zlfeng.cn/tags/nRF52840/</loc>
+    <lastmod>2022-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zlfeng.cn/tags/Java%E5%B9%B6%E5%8F%91/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -244,13 +251,6 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/nRF52840/</loc>
-    <lastmod>2022-03-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.zlfeng.cn/tags/Swagger/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -265,14 +265,14 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/Vant/</loc>
+    <loc>https://www.zlfeng.cn/tags/pixhawk/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/pixhawk/</loc>
+    <loc>https://www.zlfeng.cn/tags/Vant/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -307,14 +307,14 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</loc>
+    <loc>https://www.zlfeng.cn/tags/maven/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/maven/</loc>
+    <loc>https://www.zlfeng.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -351,13 +351,6 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/categories/Spring/</loc>
-    <lastmod>2022-03-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.zlfeng.cn/categories/NDN/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -365,7 +358,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <loc>https://www.zlfeng.cn/categories/Spring/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -373,6 +366,13 @@
   
   <url>
     <loc>https://www.zlfeng.cn/categories/%E7%A7%91%E6%8A%80%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2022-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zlfeng.cn/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
