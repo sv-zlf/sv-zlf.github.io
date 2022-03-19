@@ -209,13 +209,6 @@
 
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/Java%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2022-03-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.zlfeng.cn/tags/JVM/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -223,21 +216,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/Java%E5%B9%B6%E5%8F%91/</loc>
-    <lastmod>2022-03-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.zlfeng.cn/tags/Collection/</loc>
-    <lastmod>2022-03-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.zlfeng.cn/tags/Spring-Cloud/</loc>
+    <loc>https://www.zlfeng.cn/tags/Java%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -245,6 +224,13 @@
   
   <url>
     <loc>https://www.zlfeng.cn/tags/nRF52840/</loc>
+    <lastmod>2022-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zlfeng.cn/tags/Spring-Cloud/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -272,7 +258,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/Arduino/</loc>
+    <loc>https://www.zlfeng.cn/tags/Collection/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -294,6 +280,20 @@
   
   <url>
     <loc>https://www.zlfeng.cn/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2022-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zlfeng.cn/tags/Java%E5%B9%B6%E5%8F%91/</loc>
+    <lastmod>2022-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zlfeng.cn/tags/Arduino/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -351,14 +351,14 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/categories/Spring/</loc>
+    <loc>https://www.zlfeng.cn/categories/NDN/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/categories/NDN/</loc>
+    <loc>https://www.zlfeng.cn/categories/Spring/</loc>
     <lastmod>2022-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
