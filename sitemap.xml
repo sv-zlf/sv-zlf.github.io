@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.zlfeng.cn/post/128074950.html</loc>
+    <loc>https://www.zlfeng.cn/post/2728394539.html</loc>
     
     <lastmod>2022-03-24</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/post/2728394539.html</loc>
+    <loc>https://www.zlfeng.cn/post/128074950.html</loc>
     
     <lastmod>2022-03-24</lastmod>
     
@@ -281,20 +281,6 @@
 
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/Java%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2022-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.zlfeng.cn/tags/Java%E5%B9%B6%E5%8F%91/</loc>
-    <lastmod>2022-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.zlfeng.cn/tags/JVM/</loc>
     <lastmod>2022-03-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -309,7 +295,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/Collection/</loc>
+    <loc>https://www.zlfeng.cn/tags/Java%E5%B9%B6%E5%8F%91/</loc>
     <lastmod>2022-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -317,6 +303,20 @@
   
   <url>
     <loc>https://www.zlfeng.cn/tags/nRF52840/</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zlfeng.cn/tags/Java%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zlfeng.cn/tags/Collection/</loc>
     <lastmod>2022-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -337,13 +337,6 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/Redis/</loc>
-    <lastmod>2022-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.zlfeng.cn/tags/Spring-Cloud/</loc>
     <lastmod>2022-03-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -351,7 +344,7 @@
   </url>
   
   <url>
-    <loc>https://www.zlfeng.cn/tags/Swagger/</loc>
+    <loc>https://www.zlfeng.cn/tags/Redis/</loc>
     <lastmod>2022-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -359,6 +352,13 @@
   
   <url>
     <loc>https://www.zlfeng.cn/tags/pixhawk/</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zlfeng.cn/tags/Swagger/</loc>
     <lastmod>2022-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
